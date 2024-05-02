@@ -61,12 +61,6 @@ start_time, hour, day, week, month, year, weekday
 
 ```test.ipynb``` -> a notebook to connect to postgres db and validate the data loaded.
 
-## Environment 
-Python 3.6 or above
-
-PostgresSQL 9.5 or above
-
-psycopg2 - PostgreSQL database adapter for Python
 
 
 ## How to run
@@ -83,10 +77,4 @@ python etl.py
 ```
 
 
- #### Reference: 
-[Psycopg](http://initd.org/psycopg/docs/)
-
-[PostgreSQL Documentation](https://www.postgresql.org/docs/)
-
-[Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
 
