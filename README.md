@@ -1,4 +1,4 @@
-# Udacity Data Engineering Nanodegree - Project 1/6
+# Data Modelling using PostgreSQL Data Engineering Project 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=appveyor)](https://www.python.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square&logo=appveyor)](https://lbesson.mit-license.org/)
 
@@ -18,8 +18,6 @@ The following applies in this project:
 - [x] to implement an ETL pipeline that transfers the data from the files in the folder `/data` into the tables to Postgres
 
 ## Requirements
-
-This project was done on a Linux-OS ([Ubuntu 20.04 LTS](https://ubuntu.com/download/desktop)) with the source-code editor [Visual Studio Code](https://code.visualstudio.com/).
 
 To implement the project you will need the following things:
 - Python
